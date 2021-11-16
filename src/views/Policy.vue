@@ -1,8 +1,8 @@
 <template>
-  <div class="about">
-    <div class="about__content">
+  <div class="policy">
+    <div class="policy__content">
 
-    <h1 class="mb-3">About Smart Delivery</h1>
+    <h1 class="mb-3">Privacy policy</h1>
     <p>
       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
       Lorem Ipsum has been the industry's standard dummy text ever since the
@@ -20,13 +20,13 @@
 </template>
 
 <style>
-.about {
+.policy {
   text-align: center;
   width: 50%;
   margin: 0 auto;
   padding: 20px;
 }
-.about__content {
+.policy__content {
   text-align: left;
 }
 
