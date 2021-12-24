@@ -226,7 +226,6 @@ h3 {
   overflow: hidden;
 }
 
-
 @keyframes content {
   0% {
     transform: translatey(900px);
